@@ -4,7 +4,7 @@ void setup() {
   Serial.begin(9600);    //iniciar puerto serie
   pinMode(ledPIN , OUTPUT);  //definir pin como salida
 }
- 
+// como estas
 void loop(){
   digitalWrite(ledPIN , HIGH);   // poner el Pin en HIGH
   delay(10);                   // esperar un segundo
