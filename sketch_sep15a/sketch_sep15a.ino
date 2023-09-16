@@ -9,5 +9,5 @@ void loop(){
   digitalWrite(ledPIN , HIGH);   // poner el Pin en HIGH
   delay(1000);                   // esperar un segundo
   digitalWrite(ledPIN , LOW);    // poner el Pin en LOW
-  delay(1000);                   // esperar un segundo
+  delay(100);                   // esperar un segundo
 }
