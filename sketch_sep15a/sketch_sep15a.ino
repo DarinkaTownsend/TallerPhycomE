@@ -5,7 +5,7 @@ void setup() {
   pinMode(ledPIN , OUTPUT);  //definir pin como salida
 }
 
- //siii
+ //siii no ahora vv
 
 void loop(){
   digitalWrite(ledPIN , HIGH);   // poner el Pin en HIGH
